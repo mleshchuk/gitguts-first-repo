@@ -1,0 +1,42 @@
+*   [33mcommit 271b100cc89f1951fd6c0cd809204b6fa709b078[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 19e5a75 be6f712
+[31m|[m [32m|[m Author: Max <maksym_leshchuk@ukr.net>
+[31m|[m [32m|[m Date:   Fri Jan 25 19:37:43 2019 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Modyfikacja w master
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit be6f7123a84454568b8e3c2267ceffa44bc30348[m[33m ([m[1;32mrefactoring[m[33m)[m
+[31m|[m [32m|[m Author: Max <maksym_leshchuk@ukr.net>
+[31m|[m [32m|[m Date:   Fri Jan 25 19:28:08 2019 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Modyfikacja na refakt.
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 19e5a7577e28e3d0988b090b42bce04a89644b30[m
+[32m|[m[32m/[m  Author: Max <maksym_leshchuk@ukr.net>
+[32m|[m   Date:   Fri Jan 25 19:29:56 2019 +0100
+[32m|[m   
+[32m|[m       Modyfikacja w master
+[32m|[m 
+* [33mcommit 258e805945c0dcb39e40d24bd2d5d7df0a644e71[m
+[32m|[m Author: Max <maksym_leshchuk@ukr.net>
+[32m|[m Date:   Fri Jan 25 18:58:44 2019 +0100
+[32m|[m 
+[32m|[m     Druga wersja raportu.
+[32m|[m 
+* [33mcommit 5ec3ae7dc0446d6ae62b40a5ac646dd7ff1a7c6f[m
+[32m|[m Author: Max <maksym_leshchuk@ukr.net>
+[32m|[m Date:   Fri Jan 25 18:49:42 2019 +0100
+[32m|[m 
+[32m|[m     Inicjalna tresc w pliku example.txt
+[32m|[m 
+* [33mcommit a3af1f510d7b1bf5a08d733bb9b830d6adebfd99[m
+[32m|[m Author: Max <maksym_leshchuk@ukr.net>
+[32m|[m Date:   Fri Jan 25 18:36:21 2019 +0100
+[32m|[m 
+[32m|[m     Inicjalna wersja raportu.
+[32m|[m 
+* [33mcommit d60a97681e35838b87bd52de868784d227170055[m
+  Author: Max <maksym_leshchuk@ukr.net>
+  Date:   Fri Jan 25 18:25:49 2019 +0100
+  
+      Inicjalna wersja raportu.
